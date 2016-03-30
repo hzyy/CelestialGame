@@ -9,7 +9,7 @@ Includes:
 - Basic player
 
 
-Download here!
-[Download!](https://www.dropbox.com/s/u72tm1exbs3vqzn/Celestial.jar?dl=0)
+
+[Download the .JAR here!](https://www.dropbox.com/s/u72tm1exbs3vqzn/Celestial.jar?dl=0)
 
 ![screenshot](http://i.imgur.com/JdfFRCM.png)
