@@ -1,0 +1,117 @@
+
+tiles.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+firesheet
+  rotate: false
+  xy: 1, 5
+  size: 64, 16
+  orig: 64, 16
+  offset: 0, 0
+  index: -1
+watersheet
+  rotate: false
+  xy: 67, 5
+  size: 64, 16
+  orig: 64, 16
+  offset: 0, 0
+  index: -1
+air
+  rotate: false
+  xy: 133, 5
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+bronzitecrossbow
+  rotate: false
+  xy: 151, 5
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+dirt
+  rotate: false
+  xy: 169, 5
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+dirtwall
+  rotate: false
+  xy: 187, 5
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+emerald
+  rotate: false
+  xy: 205, 5
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+emeraldore
+  rotate: false
+  xy: 223, 5
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+glasswall
+  rotate: false
+  xy: 241, 5
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+grass
+  rotate: false
+  xy: 259, 5
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+michael
+  rotate: false
+  xy: 277, 5
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+naurite
+  rotate: false
+  xy: 295, 5
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+snow
+  rotate: false
+  xy: 313, 1
+  size: 16, 20
+  orig: 16, 20
+  offset: 0, 0
+  index: -1
+stone
+  rotate: false
+  xy: 331, 5
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+wood
+  rotate: false
+  xy: 349, 5
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+woodwall
+  rotate: false
+  xy: 367, 5
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,26 @@
+button.png
+size: 1611, 325
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+big
+  rotate: false
+  xy: 0, 0
+  size: 537, 325
+  orig: 537, 325
+  offset: 0, 0
+  index: -1
+medium
+  rotate: false
+  xy: 537, 0
+  size: 537, 325
+  orig: 537, 325
+  offset: 0, 0
+  index: -1
+small
+  rotate: false
+  xy: 1074, 0
+  size: 537, 325
+  orig: 537, 325
+  offset: 0, 0
+  index: -1
